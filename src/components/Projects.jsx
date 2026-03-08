@@ -15,7 +15,7 @@ const projects = [
     title: "AI System Orchestrator",
     description:
       "A desktop AI assistant that orchestrates multiple tools to automate everyday tasks such as file operations, web searches, scheduling, and content generation.The system integrates LLM APIs for conversational control and supports specialized tools like blueprint generation using the DALL·E API.",
-    stack: ["Python", "Electron.js", "Flask", "Redis", "OpenAI API"],
+    stack: ["Python", "Node.js", "Electron.js", "Flask", "Redis", "OpenAI API"],
     stats: ["Multi-tool AI orchestration system", "Local automation through natural language commands", "AI-powered blueprint generation from design prompts"],
     github: "https://github.com/Hitman8023/AI-System-Orchestrator",
   },

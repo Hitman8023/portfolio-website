@@ -8,6 +8,7 @@ const skillGroups = [
       "Python",
       "JavaScript",
       "TypeScript",
+      "React"
     ],
   },
   {
@@ -26,6 +27,7 @@ const skillGroups = [
     focus: "Product building",
     skills: [
       "React",
+      "Node.js",
       "Flask",
       "FastAPI",
       "Firebase",
@@ -47,6 +49,7 @@ const skillGroups = [
 const tickerTech = [
   "Python",
   "JavaScript",
+  "Node.js",
   "React",
   "Flask",
   "Firebase",
@@ -59,6 +62,7 @@ const tickerTech = [
   "Neo4j",
   "PostgreSQL",
   "Redis",
+  "LLMs",
   "OpenAI API",
   "Selenium",
   "BeautifulSoup",
